@@ -20,3 +20,5 @@ In the terminal, this environment can be created by running
 after which the environment can be activated by running:
 
 ```conda activate enzymatic_sensor```
+
+A typical installation should take less than 1 hour.
